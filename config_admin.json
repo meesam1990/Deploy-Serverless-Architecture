@@ -60,7 +60,7 @@
           "Items": []
       }
   },
-  "WebACLId": "d8cbd547-0e0d-46f1-b9b9-99faf29de37f",
+  "WebACLId": "84b2be24-9eea-416d-a239-cae199732cd8",
   "HttpVersion": "http1.1",
   "IsIPV6Enabled": false,
   "Comment": "firewall protected cdn for admin panel",

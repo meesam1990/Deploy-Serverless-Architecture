@@ -9,7 +9,7 @@
       aws_waf_condition:
         name: "{{ condition_name }}"
         filters:
-          - ip_address: "{{ ansible_enp5s0.ipv4.address }}/32"
+          - ip_address: "{{ ansible_wlp9s0.ipv4.address }}/32"
         type: ip
       register: waf_condition
 
